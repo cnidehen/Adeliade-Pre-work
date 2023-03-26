@@ -1,2 +1,2 @@
-# Adeliade-Pre-work
+# Adelaide-Pre-work
 My first repository on GitHub
